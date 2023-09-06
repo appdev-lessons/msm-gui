@@ -1,7 +1,12 @@
-# MSM Graphical User Interface (GUI)
+# Must See Movies: Graphical User Interface (GUI)
 
-### There is a walkthrough video for this project coming soon!
-{: .text-red-600 }
+## Walkthrough video
+
+[Here is a walkthrough video for this project.](https://share.descript.com/view/aGvwjU9hVXx)
+
+[You can see the Git commits I made during the video here.](https://github.com/demostudent24/msm-gui/commits/main)
+
+## Objective
 
 In this project, you will continue your work on Must See Movies (MSM). This time, you will add a Graphical User Interface (GUI) allowing users to **c**reate, **r**ead, **u**pdate, and **d**elete into your database tables.
 
